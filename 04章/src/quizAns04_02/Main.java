@@ -1,0 +1,13 @@
+package quizAns04_02;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int[]moneyList= {121902,8302,55100};
+		for(int i=0;i<3;i++) {
+			System.out.println(moneyList[i]);
+		}
+
+	}
+
+}
